@@ -1,0 +1,50 @@
+C:/Users/2003k/eec180/eec180-lab6/test/tb_macc.v {1 {vlog -work work -stats=none C:/Users/2003k/eec180/eec180-lab6/test/tb_macc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_macc
+
+Top level modules:
+	tb_macc
+
+} {} {}} C:/Users/2003k/eec180/eec180-lab6/hdl/RAMOUTPUT.v {1 {vlog -work work -stats=none C:/Users/2003k/eec180/eec180-lab6/hdl/RAMOUTPUT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAMOUTPUT
+
+Top level modules:
+	RAMOUTPUT
+
+} {} {}} C:/Users/2003k/eec180/eec180-lab6/hdl/mac.v {1 {vlog -work work -stats=none C:/Users/2003k/eec180/eec180-lab6/hdl/mac.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mac
+
+Top level modules:
+	mac
+
+} {} {}} C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_B.v {1 {vlog -work work -stats=none C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_B.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM_B
+
+Top level modules:
+	RAM_B
+
+} {} {}} C:/Users/2003k/eec180/eec180-lab6/hdl/mac_one.v {1 {vlog -work work -stats=none C:/Users/2003k/eec180/eec180-lab6/hdl/mac_one.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mac_one
+
+Top level modules:
+	mac_one
+
+} {} {}} C:/Users/2003k/eec180/eec180-lab6/test/tb_lab6.v {1 {vlog -work work -stats=none C:/Users/2003k/eec180/eec180-lab6/test/tb_lab6.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_lab6
+
+Top level modules:
+	tb_lab6
+
+} {} {}} C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_A.v {1 {vlog -work work -stats=none C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_A.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM_A
+
+Top level modules:
+	RAM_A
+
+} {} {}}

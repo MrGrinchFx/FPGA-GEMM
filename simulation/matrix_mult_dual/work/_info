@@ -1,0 +1,182 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/2003k/eec180/eec180-lab6/simulation/matrix_mult_1
+vbuffer
+Z0 !s110 1741389126
+!i10b 1
+!s100 j3km^:k[XD4DJ2k:4gKJc0
+Igc0fok?7n`YERY5e0LfNb0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/2003k/eec180/eec180-lab6/simulation/matrix_mult_dual
+w1741378244
+8C:/Users/2003k/eec180/eec180-lab6/hdl/buffer.v
+FC:/Users/2003k/eec180/eec180-lab6/hdl/buffer.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1741389126.000000
+!s107 C:/Users/2003k/eec180/eec180-lab6/hdl/buffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/2003k/eec180/eec180-lab6/hdl/buffer.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmac
+R0
+!i10b 1
+!s100 1:P@eb2kh3oag9DCHXcJQ1
+ICFg[>ZX>UaK3G9;SN3Hb22
+R1
+R2
+w1741388225
+8C:/Users/2003k/eec180/eec180-lab6/hdl/mac.v
+FC:/Users/2003k/eec180/eec180-lab6/hdl/mac.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/2003k/eec180/eec180-lab6/hdl/mac.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/2003k/eec180/eec180-lab6/hdl/mac.v|
+!i113 1
+R5
+R6
+vmatrix_mult
+R0
+!i10b 1
+!s100 [om;_gLHH`>29Rk9Y5Fa[3
+IGJ3]CneK24JofzX[PeMED2
+R1
+R2
+w1741389082
+8C:/Users/2003k/eec180/eec180-lab6/synthesis/matrix_mult_dual/matrix_mult_dual.v
+FC:/Users/2003k/eec180/eec180-lab6/synthesis/matrix_mult_dual/matrix_mult_dual.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/2003k/eec180/eec180-lab6/synthesis/matrix_mult_dual/matrix_mult_dual.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/2003k/eec180/eec180-lab6/synthesis/matrix_mult_dual/matrix_mult_dual.v|
+!i113 1
+R5
+R6
+vRAM_A_2
+R0
+!i10b 1
+!s100 5bF6O9V>JCZoGSQmWOCJ<1
+IdN70^h2IZnU^IZ6j;hj:B2
+R1
+R2
+w1741376743
+8C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_A_2.v
+FC:/Users/2003k/eec180/eec180-lab6/hdl/RAM_A_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_A_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_A_2.v|
+!i113 1
+R5
+R6
+n@r@a@m_@a_2
+vRAM_B
+!s110 1741376653
+!i10b 1
+!s100 HemeHnFR=FAUfBFcQYYeU3
+Ilze>kb=_10Mj4>?ARYN603
+R1
+R2
+w1741376442
+Z7 8C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_B_2.v
+Z8 FC:/Users/2003k/eec180/eec180-lab6/hdl/RAM_B_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1741376653.000000
+Z9 !s107 C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_B_2.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/2003k/eec180/eec180-lab6/hdl/RAM_B_2.v|
+!i113 1
+R5
+R6
+n@r@a@m_@b
+vRAM_B_2
+R0
+!i10b 1
+!s100 J1Kf3gJ7caTIeNaTOf9cK0
+IB0Fj7z3IL`<N5D>IBbAU11
+R1
+R2
+w1741376706
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@r@a@m_@b_2
+vRAMOUTPUT
+R0
+!i10b 1
+!s100 OkEHI^N`eVP=^PR<kVjz51
+IK:bzGBPX0?D=mRhNGQ`8C1
+R1
+R2
+w1741321818
+8C:/Users/2003k/eec180/eec180-lab6/hdl/RAMOUTPUT.v
+FC:/Users/2003k/eec180/eec180-lab6/hdl/RAMOUTPUT.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/2003k/eec180/eec180-lab6/hdl/RAMOUTPUT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/2003k/eec180/eec180-lab6/hdl/RAMOUTPUT.v|
+!i113 1
+R5
+R6
+n@r@a@m@o@u@t@p@u@t
+vtb_lab6
+R0
+!i10b 1
+!s100 UHS:4mQE`dj@cconoO_fc0
+I`gz1GO`2dY5^nk^`;^m<X2
+R1
+R2
+w1741225297
+8C:/Users/2003k/eec180/eec180-lab6/test/tb_lab6.v
+FC:/Users/2003k/eec180/eec180-lab6/test/tb_lab6.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/2003k/eec180/eec180-lab6/test/tb_lab6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/2003k/eec180/eec180-lab6/test/tb_lab6.v|
+!i113 1
+R5
+R6

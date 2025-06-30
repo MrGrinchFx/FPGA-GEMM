@@ -1,0 +1,1 @@
+Save all design .v files here. The top-level file produced by System Builder can stay in the synthesis folder. In this manner Verilog files may be shared between multiple Quartus/ModelSim projects in the lab exercises.
