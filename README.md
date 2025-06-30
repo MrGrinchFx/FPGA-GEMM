@@ -5,7 +5,8 @@
 #Implemented in Verilog HDL is the MAC Unit as well as the control
 #unit for the FSM.
 
-:
+![FPGA results](FPGA_results.jpg)
+![FPGA Waveforms](FPGA_results2.jpg)
 - lab1/
 	- hdl/
 		- dec_7seg_decoder.v
